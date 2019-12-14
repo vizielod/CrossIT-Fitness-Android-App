@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CrossIT</string>
+    <string name="workout">Workout</string>
+    <string name="stretching">Stretching</string>
+    <string name="smr">SMR</string>
+    <string name="cardio">Cardio</string>
+    <string name="exercises">Exercises</string>
+    <string name="exercisesInWorkoutDetailedView">Exercises:</string>
+    <string name="warmup">Warmup</string>
+    <string name="weight_training">Weight Training</string>
+    <string name="crossfit">CrossFit</string>
+    <string name="functional_cross_training">Functional Cross Training</string>
+    <string name="weight_lifting">Weight Lifting</string>
+    <string name="power_lifting">Power Lifting</string>
+    <string name="bodyweight_workouts">Bodyweight Workouts</string>
+    <string name="finished">Finished</string>
+    <string name="title_activity_exercises">ExercisesActivity</string>
+    <string name="new_exercise">New exercise</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="exercise_name">Exercise name:</string>
+    <string name="description">Description:</string>
+    <string name="category">Category:</string>
+    <string-array name="category_exercises">
+        <item>Weight Lifting</item>
+        <item>CrossFit</item>
+        <item>Power Lifting</item>
+        <item>Stretching</item>
+        <item>SMR</item>
+        <item>Cardio</item>
+        <item>Warmup</item>
+    </string-array>
+    <string-array name="category_workouts">
+        <item>Weight Training</item>
+        <item>CrossFit</item>
+        <item>Functional Cross Training</item>
+        <item>Power Lifting</item>
+        <item>Weight Lifting</item>
+        <item>Bodyweight Workouts</item>
+    </string-array>
+    <string name="ideal_rest_time">Ideal rest time:</string>
+    <string name="ideal_volume">Ideal volume:</string>
+    <string name="already_finished">Finished</string>
+    <string name="exercise_deleted_message">Exercise deleted</string>
+    <string name="exercise_restored_message">Deleted exercise is restored!</string>
+    <string name="edit_exercise">Edit exercise</string>
+    <string name="title_activity_workouts">WorkoutsActivity</string>
+    <string name="new_workout">New Workout</string>
+    <string name="workout_name">Workout Name:</string>
+    <string name="title_activity_detailed_workout">DetailedWorkoutActivity</string>
+    <string name="workoutByCategory">Workout by Category</string>
+    <string name="workouts">Workouts</string>
+    <string name="workout_deleted_message">Workout Deleted!</string>
+    <string name="workout_restored_message">Deleted workout restored!</string>
+</resources>
